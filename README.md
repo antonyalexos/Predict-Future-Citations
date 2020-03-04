@@ -1,4 +1,4 @@
-Predict-Future-Citations
+#Predict-Future-Citations
 
 This is a very simple project in which we try to predict future citations based only in the citations that the paper has in the past years. 
 It is a Time Series problem and a semester project for the course [C418 Neuro-Fuzzy Computating](https://courses.e-ce.uth.gr/CE418/).
